@@ -1,0 +1,1 @@
+The gem 'compare_file' as the name suggets is a Gem for comparing two files. It's currently in it's initial version which is 0.0.0
